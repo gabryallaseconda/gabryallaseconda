@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Gabriele Gabrielli, Italian from Como 🏞️ now living in Stockholm 🇸🇪.
+
+Passionate about math, AI and computer science, I have a master degree in Mathematial Engineering got in Politecnico di Milano, and studying for a Master of Science in Computer Science from the University of Colorado Boulder.
+
+
+
 <!--
 **gabryallaseconda/gabryallaseconda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
